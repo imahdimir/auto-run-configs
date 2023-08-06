@@ -1,6 +1,5 @@
 {
-    "repo_url": "https://github.com/imahdimir/make-day-plan-in-Todoist-fr-notion",
-    "python_version": "3.10.5",
-    "module_2_run": "rm_empty_sections.py",
-    "rm_venv": false
+    "url": "https://github.com/imahdimir/make-day-plan-in-Todoist-fr-notion",
+    "py_ver": "3.11.4",
+    "module": "rm_empty_sections"
 }
