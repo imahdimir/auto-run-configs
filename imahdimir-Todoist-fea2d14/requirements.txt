@@ -1,6 +1,0 @@
-requests==2.28.1
-pandas==2.0.1
-mtok==0.2.0
-pytz==2022.6
-numpy==1.23.4
-todoist-api-python~=2.0.2
