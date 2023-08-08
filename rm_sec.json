@@ -2,5 +2,5 @@
     "pip_pkg": "todoist_auto",
     "py_ver": "3.11.4",
     "module": "rm_empty_sections",
-    "rm_venv": false
+    "rm_venv": true
 }
