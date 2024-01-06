@@ -2,5 +2,5 @@
     "pip_pkg": "todoist_auto",
     "py_ver": "3.12.0",
     "module": "routine",
-    "rm_venv": true
+    "rm_venv": false
 }
