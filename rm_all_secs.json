@@ -1,0 +1,6 @@
+{
+    "pip_pkg": "todoist_auto",
+    "py_ver": "3.12.2",
+    "module": "rm_all_secs",
+    "rm_venv": false
+}
